@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; background: #f0f0f0; }
+h1 { text-align: center; }
+#messages { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; background: #fff; margin-bottom: 10px; }
+input { padding: 10px; margin: 5px; }
+button { padding: 10px 20px; }
